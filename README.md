@@ -1,38 +1,38 @@
-# livro-simulado
-Simulação de site usado para venda e difusão de livro com discurso de ódio, destinado a fins didáticos em treinamentos sobre crimes cibernéticos, radicalização online e OSINT. Contém link de download, e-mail de contato e perfis simulados em redes sociais. Uso exclusivo para fins educativos.
 # Cenário 3 – Simulação de Site com Discurso de Ódio
 
-Este repositório contém uma simulação de site utilizado para promover e vender um livro digital com conteúdo de discurso de ódio contra minorias. O material foi desenvolvido para fins exclusivamente didáticos, como recurso em cursos de enfrentamento a crimes cibernéticos e análise de fontes abertas (OSINT).
+Este repositório contém uma simulação de site utilizado para divulgar e disponibilizar para download o livro fictício *Minha Verdade Totalitária*, de autoria simulada de **Kachorr Karamell**, com conteúdo que representa discurso de ódio contra minorias. O material é destinado exclusivamente ao uso didático, em treinamentos sobre crimes cibernéticos, análise de fontes abertas (OSINT) e investigação de conteúdos extremistas online.
 
 ## 🎯 Objetivos Didáticos
 
-- Simular um ambiente web funcional de apologia ao ódio;
-- Permitir a identificação de elementos de investigação cibernética;
-- Praticar a coleta e preservação de vestígios digitais;
-- Estimular o uso ético de técnicas de OSINT em contexto de ameaça.
+- Simular um ambiente de apologia ao ódio para investigação controlada;
+- Exercitar a identificação de elementos de investigação cibernética;
+- Aplicar técnicas de preservação de vestígios digitais;
+- Utilizar redes sociais e dados abertos para rastreamento preliminar.
 
 ## 🔍 Conteúdo do site
 
-- Página HTML com narrativa provocadora;
-- Botão de download para um livro em PDF (conteúdo simulado);
-- E-mail de contato fictício para simular diligências;
-- Links ativos para redes sociais simuladas (Twitter, Gab, Telegram).
+- Página HTML com simulação de site extremista;
+- Botão de download para o livro fictício *Minha Verdade Totalitária* (.pdf);
+- E-mail de contato fictício para práticas simuladas de requisição;
+- Links para redes sociais simuladas (Twitter/X, Gab, Telegram).
 
 ## 📂 Estrutura
 
 - `index.html`: página principal do site
-- `resistencia_verdade.pdf`: livro fictício disponível para download
-- Diretório opcional: `pdfs/` para organização do arquivo
+- `minha_verdade_totalitaria.pdf`: livro fictício para download
 
 ## 🌐 Acesso via GitHub Pages
 
-Se publicado via GitHub Pages, o site poderá ser acessado por:
+Se publicado corretamente, o site poderá ser acessado por:
 
+```
+https://seunome.github.io/nome-do-repositorio/
+```
 
 ## ⚠️ Advertência
 
-Este material é **estritamente fictício** e foi criado com propósitos educacionais. Nenhuma das ideias ou conteúdos expressos no site representa a visão de seus autores ou da instituição promotora. É vedada a reprodução ou redistribuição para fins reais.
+Este cenário é **inteiramente fictício** e foi criado exclusivamente para fins educacionais. O conteúdo não representa opiniões reais de indivíduos ou instituições. É expressamente proibida a sua reprodução, difusão ou utilização fora de ambiente controlado e com finalidade investigativa ou acadêmica.
 
 ---
 
-**Uso exclusivo em ambiente controlado para simulações investigativas.**
+**Uso exclusivo em treinamentos sobre discurso de ódio e segurança pública.**
